@@ -2,6 +2,8 @@
 
 ![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-FastAPI-green)
+![Langchain](https://img.shields.io/badge/Langchain-0.2%2B-orange)
+![LangGraph](https://img.shields.io/badge/LangGraph-0.0.69-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A comprehensive suite of Python tools for advanced dialogue follow-up processing. This project leverages Large Language Models (LLMs) through FastAPI and LangGraph to intelligently match user responses to predefined options for both single and multiple-choice questions.
